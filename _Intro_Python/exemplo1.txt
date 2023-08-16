@@ -1,0 +1,4 @@
+Esse é um exemplo de arquivo de texto
+------
+
+Esse exemplo é até legal, mas tem formas melhores de fazer isso
